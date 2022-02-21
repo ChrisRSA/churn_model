@@ -1,4 +1,4 @@
-churn_model
+#churn_model
 
 An end to end machine learning pipeline with MLOps tools.
 
